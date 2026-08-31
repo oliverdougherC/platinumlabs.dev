@@ -1,5 +1,6 @@
 ---
 date: May 29 2026
+title: Hello World!
 ---
 Hello. This is my inaugural blog post.
 

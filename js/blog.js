@@ -187,7 +187,7 @@
                 slug: entry.slug,
                 date: entry.date,
                 createdAt: entry.createdAt || null,
-                title: extractTitle(parsed.body),
+                title: parsed.meta.title || extractTitle(parsed.body),
                 body: parsed.body
               };
             });

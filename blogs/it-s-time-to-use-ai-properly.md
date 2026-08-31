@@ -1,5 +1,6 @@
 ---
 date: May 29 2026
+title: It's Time to Use AI Properly
 ---
 The following is an essay that I actually wrote on August 27, 2025, but I never published it anywhere. It's surprisingly not outdated at all, which I think just reinforces my arguments. It definitely isn't my best work, and completely lacks nuance, but the core still holds. Regardless, enjoy.
 

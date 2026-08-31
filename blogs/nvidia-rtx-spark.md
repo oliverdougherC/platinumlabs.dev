@@ -1,5 +1,6 @@
 ---
 date: June 2 2026
+title: Nvidia RTX Spark
 ---
 Yesterday, Nvidia unveiled the "RTX Spark" to the world. Well, kind of. They *announced* it, and showed off some specs. This was following cryptic social media posts from Nvidia, Microsoft, and ARM about "A new era of PC". This is a pretty funny statement considering Apple did the same thing 6 years ago. Overzealous marketing aside, Apple Silicon is a technological miracle, and a non-Apple alternative is always welcome. Naming is still a little up in the air, but it looks like they will offer 2 chips, the N1X and N1, with the N1 being a less powerful, cheaper version of the N1X.
 

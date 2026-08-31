@@ -31,8 +31,8 @@ scripts/build-blog-manifest.js  # regenerates blogs/manifest.json from the .md f
 
 ## Writing a post
 
-1. Drop a `.md` file into `blogs/`. Optional YAML frontmatter is supported; the first
-   `# Heading` becomes the title.
+1. Drop a `.md` file into `blogs/`. Add YAML frontmatter with a `title:` and a `date:`
+   (the title drives the page heading and the sidebar entry).
 2. Regenerate the manifest:
 
    ```bash
