@@ -24,9 +24,8 @@ js/
   blog.js                       # blog engine
   blog-math.js                  # KaTeX rendering
   blog-code-highlight.js        # Prism + copy buttons
-  favicon-swap.js               # happy/sad favicon on tab focus
 assets/                         # cursor .cur files + light-mode icons used by the CSS
-favicon-*.svg / favicon-*.ico   # favicons
+favicon.svg                     # tab icon (book)
 scripts/build-blog-manifest.js  # regenerates blogs/manifest.json from the .md files
 ```
 
