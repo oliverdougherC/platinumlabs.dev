@@ -1,0 +1,13 @@
+{
+  "name": "pl-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone static blog.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build:blog": "node scripts/build-blog-manifest.js",
+    "serve": "npx --yes serve -l 4173 ."
+  }
+}
